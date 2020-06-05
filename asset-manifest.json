@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/telephonebook/static/js/main.ac96726c.chunk.js",
+    "main.js.map": "/telephonebook/static/js/main.ac96726c.chunk.js.map",
+    "runtime-main.js": "/telephonebook/static/js/runtime-main.2cae8237.js",
+    "runtime-main.js.map": "/telephonebook/static/js/runtime-main.2cae8237.js.map",
+    "static/js/2.cf89add6.chunk.js": "/telephonebook/static/js/2.cf89add6.chunk.js",
+    "static/js/2.cf89add6.chunk.js.map": "/telephonebook/static/js/2.cf89add6.chunk.js.map",
+    "index.html": "/telephonebook/index.html",
+    "precache-manifest.ff6ba42e9d78ff251309fecce7d0eda2.js": "/telephonebook/precache-manifest.ff6ba42e9d78ff251309fecce7d0eda2.js",
+    "service-worker.js": "/telephonebook/service-worker.js",
+    "static/js/2.cf89add6.chunk.js.LICENSE.txt": "/telephonebook/static/js/2.cf89add6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cae8237.js",
+    "static/js/2.cf89add6.chunk.js",
+    "static/js/main.ac96726c.chunk.js"
+  ]
+}
